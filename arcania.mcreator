@@ -1,0 +1,371 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Arcanium",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arcanium"
+    },
+    {
+      "name": "ArcaniumIngot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arcanium_ingot"
+    },
+    {
+      "name": "ChiseledEndStoneBricks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_end_stone_bricks"
+    },
+    {
+      "name": "CrackedEndStoneBricks",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cracked_end_stone_bricks"
+    },
+    {
+      "name": "ChiseledEumusBricks",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_eumus_bricks"
+    },
+    {
+      "name": "CrackedEumusBricks",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cracked_eumus_bricks"
+    },
+    {
+      "name": "EumusBricks",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eumus_bricks"
+    },
+    {
+      "name": "EndiaStem",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endia_stem"
+    },
+    {
+      "name": "PoisounousFluid",
+      "type": "fluid",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poisounous_fluid"
+    },
+    {
+      "name": "PoisounousFluidMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poisounous_fluid_mobplayer_collides_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CrackedPurpurBlock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cracked_purpur_block"
+    },
+    {
+      "name": "EndiaPlanks",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endia_planks"
+    },
+    {
+      "name": "EndiaStairs",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endia_stairs"
+    },
+    {
+      "name": "EndiaSlabs",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endia_slabs"
+    },
+    {
+      "name": "EndiaFence",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endia_fence"
+    },
+    {
+      "name": "EndiaTrapdoor",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endia_trapdoor"
+    },
+    {
+      "name": "EndiaDoor",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endia_door"
+    },
+    {
+      "name": "MysticalObsidian",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mystical_obsidian"
+    },
+    {
+      "name": "EumusBricksStairs",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eumus_bricks_stairs"
+    },
+    {
+      "name": "EumusBricksSlab",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eumus_bricks_slab"
+    },
+    {
+      "name": "ArcaniaBlocks",
+      "type": "tab",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arcania_blocks"
+    },
+    {
+      "name": "ArcaniaItems",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arcania_items"
+    },
+    {
+      "name": "ArgoniteOre",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "argonite_ore"
+    },
+    {
+      "name": "EndiumOre",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_ore"
+    },
+    {
+      "name": "MelliteOre",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mellite_ore"
+    },
+    {
+      "name": "OpaleOre",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opale_ore"
+    },
+    {
+      "name": "ArgoniteIngot",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "argonite_ingot"
+    },
+    {
+      "name": "EndiumIngot",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_ingot"
+    },
+    {
+      "name": "MelliteIngot",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mellite_ingot"
+    },
+    {
+      "name": "OpaleIngot",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opale_ingot"
+    },
+    {
+      "name": "ArcaniumBlock",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arcanium_block"
+    },
+    {
+      "name": "ArgoniteBlock",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "argonite_block"
+    },
+    {
+      "name": "EndiumBlock",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_block"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.arcania.cracked_end_stone_bricks": "Cracked End Stone Bricks",
+      "itemGroup.tabarcania_blocks": "Arcania: Blocks",
+      "block.arcania.arcanium_block": "§dArcanium Block",
+      "block.arcania.endium_block": "§bEndium Block",
+      "block.arcania.cracked_eumus_bricks": "Cracked Eumus Bricks",
+      "block.arcania.endium_ore": "Endium Ore",
+      "block.arcania.endia_trapdoor": "Endia Trapdoor",
+      "block.arcania.eumus_bricks_slab": "Eumus Bricks Slab",
+      "item.arcania.argonite_ingot": "Argonite Ingot",
+      "block.arcania.eumus_bricks": "Eumus Bricks",
+      "block.arcania.chiseled_end_stone_bricks": "Chiseled End Stone Bricks",
+      "block.arcania.endia_slabs": "Endia Slabs",
+      "block.arcania.arcanium": "§dArcanium Ore",
+      "block.arcania.endia_stem": "Endia Stem",
+      "block.arcania.endia_fence": "Endia Fence",
+      "item.arcania.arcanium_ingot": "Arcanium Ingot",
+      "fluid.poisounous_fluid": "PoisounousFluid",
+      "item.arcania.endium_ingot": "Endium Ingot",
+      "block.arcania.chiseled_eumus_bricks": "Chiseled Eumus Bricks",
+      "block.arcania.argonite_ore": "Argonite Ore",
+      "block.arcania.argonite_block": "Argonite Block",
+      "item.arcania.opale_ingot": "Opale Ingot",
+      "block.arcania.mellite_ore": "Mellite Ore",
+      "block.arcania.mystical_obsidian": "Mystical Obsidian",
+      "block.arcania.opale_ore": "Opale Ore",
+      "block.arcania.endia_planks": "Endia Planks",
+      "block.arcania.eumus_bricks_stairs": "Eumus Bricks Stairs",
+      "item.arcania.poisounous_fluid_bucket": "PoisounousFluid Bucket",
+      "itemGroup.tabarcania_items": "Arcania: Items",
+      "block.arcania.endia_stairs": "Endia Stairs",
+      "block.arcania.endia_door": "Endia Door",
+      "item.arcania.mellite_ingot": "Mellite Ingot",
+      "block.arcania.cracked_purpur_block": "Cracked Purpur Block"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "arcania",
+    "modName": "Arcania",
+    "version": "1.15.2-1.0.0",
+    "description": "Arcania is a mod adding lot of features in Minecraft like ore, dimension, biomes, mobs and more !",
+    "author": "NolanH76",
+    "websiteURL": "https://mcreator.net/modification/68432/arcania",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "com.github.nolanh76.arcania",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

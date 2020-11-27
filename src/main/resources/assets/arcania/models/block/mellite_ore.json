@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/mellite_ore",
+    "up": "arcania:blocks/mellite_ore",
+    "north": "arcania:blocks/mellite_ore",
+    "east": "arcania:blocks/mellite_ore",
+    "south": "arcania:blocks/mellite_ore",
+    "west": "arcania:blocks/mellite_ore",
+    "particle": "arcania:blocks/mellite_ore"
+  }
+}

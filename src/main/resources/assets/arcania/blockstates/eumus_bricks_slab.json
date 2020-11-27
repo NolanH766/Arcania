@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "arcania:block/eumus_bricks_slab"
+    },
+    "type=top": {
+      "model": "arcania:block/eumus_bricks_slab_top"
+    },
+    "type=double": {
+      "model": "arcania:block/eumus_bricks_slab_full"
+    }
+  }
+}

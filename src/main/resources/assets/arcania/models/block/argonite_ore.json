@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/argonite_ore",
+    "up": "arcania:blocks/argonite_ore",
+    "north": "arcania:blocks/argonite_ore",
+    "east": "arcania:blocks/argonite_ore",
+    "south": "arcania:blocks/argonite_ore",
+    "west": "arcania:blocks/argonite_ore",
+    "particle": "arcania:blocks/argonite_ore"
+  }
+}

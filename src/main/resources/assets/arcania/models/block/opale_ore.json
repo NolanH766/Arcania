@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/opale_ore",
+    "up": "arcania:blocks/opale_ore",
+    "north": "arcania:blocks/opale_ore",
+    "east": "arcania:blocks/opale_ore",
+    "south": "arcania:blocks/opale_ore",
+    "west": "arcania:blocks/opale_ore",
+    "particle": "arcania:blocks/opale_ore"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "arcania:blocks/endia_door_bottom",
+    "top": "arcania:blocks/endia_door_top"
+  }
+}

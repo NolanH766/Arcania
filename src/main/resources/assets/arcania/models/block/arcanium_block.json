@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/arcanium_block",
+    "up": "arcania:blocks/arcanium_block",
+    "north": "arcania:blocks/arcanium_block",
+    "east": "arcania:blocks/arcanium_block",
+    "south": "arcania:blocks/arcanium_block",
+    "west": "arcania:blocks/arcanium_block",
+    "particle": "arcania:blocks/arcanium_block"
+  }
+}

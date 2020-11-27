@@ -1,0 +1,36 @@
+{
+  "_fv": 13,
+  "_type": "fluid",
+  "definition": {
+    "name": "PoisounousFluid",
+    "textureStill": "poisounous_fluid_still",
+    "textureFlowing": "poisounous_fluid_flow",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "end_midlands"
+      },
+      {
+        "value": "end_highlands"
+      },
+      {
+        "value": "end_barrens"
+      }
+    ],
+    "onEntityCollides": {
+      "name": "PoisounousFluidMobplayerCollidesBlock"
+    }
+  }
+}

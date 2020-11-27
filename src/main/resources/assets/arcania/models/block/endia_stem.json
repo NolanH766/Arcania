@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/endia_stem_top",
+    "up": "arcania:blocks/endia_stem_top",
+    "north": "arcania:blocks/endia_stem",
+    "east": "arcania:blocks/endia_stem",
+    "south": "arcania:blocks/endia_stem",
+    "west": "arcania:blocks/endia_stem",
+    "particle": "arcania:blocks/endia_stem_top"
+  }
+}

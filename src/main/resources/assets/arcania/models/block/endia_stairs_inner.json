@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "arcania:blocks/endia_planks",
+    "top": "arcania:blocks/endia_planks",
+    "side": "arcania:blocks/endia_planks"
+  }
+}

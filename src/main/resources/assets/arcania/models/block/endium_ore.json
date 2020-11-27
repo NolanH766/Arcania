@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/endium_ore",
+    "up": "arcania:blocks/endium_ore",
+    "north": "arcania:blocks/endium_ore",
+    "east": "arcania:blocks/endium_ore",
+    "south": "arcania:blocks/endium_ore",
+    "west": "arcania:blocks/endium_ore",
+    "particle": "arcania:blocks/endium_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/cracked_end_stone_bricks",
+    "up": "arcania:blocks/cracked_end_stone_bricks",
+    "north": "arcania:blocks/cracked_end_stone_bricks",
+    "east": "arcania:blocks/cracked_end_stone_bricks",
+    "south": "arcania:blocks/cracked_end_stone_bricks",
+    "west": "arcania:blocks/cracked_end_stone_bricks",
+    "particle": "arcania:blocks/cracked_end_stone_bricks"
+  }
+}

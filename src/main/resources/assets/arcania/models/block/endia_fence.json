@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "arcania:blocks/endia_planks",
+    "particle": "arcania:blocks/endia_planks"
+  }
+}

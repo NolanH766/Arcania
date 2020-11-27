@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/mystical_obsidian_top",
+    "up": "arcania:blocks/mystical_obsidian_top",
+    "north": "arcania:blocks/mystical_obsidian_side",
+    "east": "arcania:blocks/mystical_obsidian_side",
+    "south": "arcania:blocks/mystical_obsidian_side",
+    "west": "arcania:blocks/mystical_obsidian_side",
+    "particle": "arcania:blocks/mystical_obsidian_top"
+  }
+}

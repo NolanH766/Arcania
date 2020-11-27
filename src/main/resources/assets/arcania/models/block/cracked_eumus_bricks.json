@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/cracked_eumus_bricks",
+    "up": "arcania:blocks/cracked_eumus_bricks",
+    "north": "arcania:blocks/cracked_eumus_bricks",
+    "east": "arcania:blocks/cracked_eumus_bricks",
+    "south": "arcania:blocks/cracked_eumus_bricks",
+    "west": "arcania:blocks/cracked_eumus_bricks",
+    "particle": "arcania:blocks/cracked_eumus_bricks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/endia_planks",
+    "up": "arcania:blocks/endia_planks",
+    "north": "arcania:blocks/endia_planks",
+    "east": "arcania:blocks/endia_planks",
+    "south": "arcania:blocks/endia_planks",
+    "west": "arcania:blocks/endia_planks",
+    "particle": "arcania:blocks/endia_planks"
+  }
+}

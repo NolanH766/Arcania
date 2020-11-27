@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "arcania:blocks/endia_trapdoor",
+    "particle": "arcania:blocks/endia_trapdoor"
+  }
+}

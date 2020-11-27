@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="arcania"
+version="1.15.2-1.0.0"
+displayName="Arcania"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net/modification/68432/arcania"
+logoFile="logo.png"
+authors="NolanH76"
+description='''
+Arcania is a mod adding lot of features in Minecraft like ore, dimension, biomes, mobs and more !
+'''
+
+[[dependencies.arcania]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.arcania]]
+    modId="geckolib"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+

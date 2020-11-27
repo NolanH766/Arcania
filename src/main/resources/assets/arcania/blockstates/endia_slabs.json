@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "arcania:block/endia_slabs"
+    },
+    "type=top": {
+      "model": "arcania:block/endia_slabs_top"
+    },
+    "type=double": {
+      "model": "arcania:block/endia_slabs_full"
+    }
+  }
+}

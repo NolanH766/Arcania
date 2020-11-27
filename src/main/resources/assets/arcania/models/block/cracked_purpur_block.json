@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "arcania:blocks/cracked_purpur_block",
+    "up": "arcania:blocks/cracked_purpur_block",
+    "north": "arcania:blocks/cracked_purpur_block",
+    "east": "arcania:blocks/cracked_purpur_block",
+    "south": "arcania:blocks/cracked_purpur_block",
+    "west": "arcania:blocks/cracked_purpur_block",
+    "particle": "arcania:blocks/cracked_purpur_block"
+  }
+}
